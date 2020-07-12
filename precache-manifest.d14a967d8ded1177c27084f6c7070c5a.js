@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9199a5c74d2cc02b1a114266b579018b",
+    "revision": "8a27fb9b9859777e3a477947ffd36dee",
     "url": "/pares-app/index.html"
   },
   {
-    "revision": "9a7d1b2874b8d1a3960f",
+    "revision": "0382661901d118b9f7db",
     "url": "/pares-app/static/css/main.c0ef76ff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pares-app/static/js/2.737effa2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a7d1b2874b8d1a3960f",
-    "url": "/pares-app/static/js/main.a64e7839.chunk.js"
+    "revision": "0382661901d118b9f7db",
+    "url": "/pares-app/static/js/main.9ee7c3b2.chunk.js"
   },
   {
     "revision": "f4a5f616a996a9a0aa52",
