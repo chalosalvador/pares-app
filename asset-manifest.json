@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pares-app/static/css/main.c0ef76ff.chunk.css",
+    "main.js": "/pares-app/static/js/main.3074c3d5.chunk.js",
+    "main.js.map": "/pares-app/static/js/main.3074c3d5.chunk.js.map",
+    "runtime-main.js": "/pares-app/static/js/runtime-main.c0cb72e3.js",
+    "runtime-main.js.map": "/pares-app/static/js/runtime-main.c0cb72e3.js.map",
+    "static/js/2.737effa2.chunk.js": "/pares-app/static/js/2.737effa2.chunk.js",
+    "static/js/2.737effa2.chunk.js.map": "/pares-app/static/js/2.737effa2.chunk.js.map",
+    "index.html": "/pares-app/index.html",
+    "precache-manifest.315bbdb8cd5a171a062701cbe0a7a8c7.js": "/pares-app/precache-manifest.315bbdb8cd5a171a062701cbe0a7a8c7.js",
+    "service-worker.js": "/pares-app/service-worker.js",
+    "static/css/main.c0ef76ff.chunk.css.map": "/pares-app/static/css/main.c0ef76ff.chunk.css.map",
+    "static/js/2.737effa2.chunk.js.LICENSE.txt": "/pares-app/static/js/2.737effa2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pares-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0cb72e3.js",
+    "static/js/2.737effa2.chunk.js",
+    "static/css/main.c0ef76ff.chunk.css",
+    "static/js/main.3074c3d5.chunk.js"
+  ]
+}
