@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pares-app/static/css/main.4e12b215.chunk.css",
+    "main.css": "/pares-app/static/css/main.bb035d96.chunk.css",
     "main.js": "/pares-app/static/js/main.501c0a8a.chunk.js",
     "main.js.map": "/pares-app/static/js/main.501c0a8a.chunk.js.map",
     "runtime-main.js": "/pares-app/static/js/runtime-main.c0cb72e3.js",
@@ -8,15 +8,15 @@
     "static/js/2.f8a22442.chunk.js": "/pares-app/static/js/2.f8a22442.chunk.js",
     "static/js/2.f8a22442.chunk.js.map": "/pares-app/static/js/2.f8a22442.chunk.js.map",
     "index.html": "/pares-app/index.html",
-    "precache-manifest.5fb3683cd88613e60581486e9c46efae.js": "/pares-app/precache-manifest.5fb3683cd88613e60581486e9c46efae.js",
+    "precache-manifest.7536aa95a56c61a96bf1536bfad19aa8.js": "/pares-app/precache-manifest.7536aa95a56c61a96bf1536bfad19aa8.js",
     "service-worker.js": "/pares-app/service-worker.js",
-    "static/css/main.4e12b215.chunk.css.map": "/pares-app/static/css/main.4e12b215.chunk.css.map",
+    "static/css/main.bb035d96.chunk.css.map": "/pares-app/static/css/main.bb035d96.chunk.css.map",
     "static/js/2.f8a22442.chunk.js.LICENSE.txt": "/pares-app/static/js/2.f8a22442.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c0cb72e3.js",
     "static/js/2.f8a22442.chunk.js",
-    "static/css/main.4e12b215.chunk.css",
+    "static/css/main.bb035d96.chunk.css",
     "static/js/main.501c0a8a.chunk.js"
   ]
 }
