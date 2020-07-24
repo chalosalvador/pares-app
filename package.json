@@ -2,19 +2,27 @@
   "name": "pares-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://chalosalvador.github.io/pares-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "firebase": "^7.16.1",
+    "gh-pages": "^3.1.0",
     "react": "^16.13.1",
+    "react-awesome-modal": "^2.0.5",
+    "react-card-flip": "^1.0.10",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "universal-cookie": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
